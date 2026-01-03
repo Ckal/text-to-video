@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool that creates a video according to a text description. It takes an input named `prompt` which contains the image description, as well as an optional input `seconds` which will be the duration of the video. The default is of two seconds. The tool outputs a video object.",
+  "name": "video_generator",
+  "tool_class": "text_to_video.TextToVideoTool"
+}
